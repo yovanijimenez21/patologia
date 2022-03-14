@@ -1,0 +1,2 @@
+# patologia
+Encuestas de patologia
